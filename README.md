@@ -13,12 +13,12 @@
 [![AGPL License](https://img.shields.io/badge/FSJS-Ineuron-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
-## 🔗 Live Link - [Color Changer](https://fsjs-password-generator.netlify.app/)
+## 🔗 Live Link - [Password Generator](https://fsjs-password-generator.netlify.app/)
 
 
 ## 🪧 Demo
 
-![Color Changer](https://www.linkpicture.com/q/Screenshot-2023-02-09-091026.png)
+![Password Generator](https://www.linkpicture.com/q/Screenshot-2023-02-09-091026.png)
 
 
 
